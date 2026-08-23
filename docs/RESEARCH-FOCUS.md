@@ -18,3 +18,7 @@ Metaverse OS chrome, Bancada product polish, DAO process theatre, marketing KYC 
 git clone https://github.com/StrataMesh-Laboratory/stratamesh-core.git
 cd stratamesh-core/src && python3 protocol_benchmark.py
 ```
+
+## Promotion ladder
+
+See [ROADMAP-PUBLIC-v0.3](https://github.com/StrataMesh-Laboratory/stratamesh-core/blob/main/docs/ROADMAP-PUBLIC-v0.3.md) — LAB → Adversarial lab → Public testnet → Mainnet (unscheduled).
