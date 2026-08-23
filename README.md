@@ -4,8 +4,9 @@ Public registry for **StrataMesh Laboratory** — research DLT for Fog/Edge reso
 
 | Item | Link |
 |------|------|
-| Core repository | [amcmorais/stratamesh-core](https://github.com/amcmorais/stratamesh-core) |
-| Reference Fog Node | [Calhegas Morais Node](https://github.com/amcmorais/calhegas-morais-node) (`FOG-NODE-PT-CM-001`) |
+| Organization | [github.com/StrataMesh-Laboratory](https://github.com/StrataMesh-Laboratory) |
+| Core repository | [stratamesh-core](https://github.com/StrataMesh-Laboratory/stratamesh-core) |
+| Reference Fog Node | [calhegas-morais-node](https://github.com/StrataMesh-Laboratory/calhegas-morais-node) (`FOG-NODE-PT-CM-001`) |
 | Operator entity | [AMCM ENI](https://github.com/amcmorais/amcm-eni) |
 | Public site | https://calhegasmorais.pt/ |
 | Status pulse | https://status.calhegasmorais.pt/ |
@@ -19,5 +20,3 @@ Public registry for **StrataMesh Laboratory** — research DLT for Fog/Edge reso
 ## Core focus
 
 DAG · gossip · tip selection · resource contribution proofs · STRATA settlement (`#mint` / `#0`) · Fog/Edge hierarchy
-
-Higher layers (SO Metaverso, Bancada CGU, SCA) sit on that substrate.
