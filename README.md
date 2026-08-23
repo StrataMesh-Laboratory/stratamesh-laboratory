@@ -1,22 +1,32 @@
 # StrataMesh Laboratory
 
-Public registry for **StrataMesh Laboratory** — research DLT for Fog/Edge resource coordination and STRATA settlement.
+Public registry and charter for **StrataMesh Laboratory** — research DLT for **Fog/Edge resource coordination** and **STRATA settlement**.
 
 | Item | Link |
 |------|------|
 | Organization | [github.com/StrataMesh-Laboratory](https://github.com/StrataMesh-Laboratory) |
-| Core repository | [stratamesh-core](https://github.com/StrataMesh-Laboratory/stratamesh-core) |
+| Protocol core | [stratamesh-core](https://github.com/StrataMesh-Laboratory/stratamesh-core) |
 | Reference Fog Node | [calhegas-morais-node](https://github.com/StrataMesh-Laboratory/calhegas-morais-node) (`FOG-NODE-PT-CM-001`) |
 | Operator entity | [AMCM ENI](https://github.com/amcmorais/amcm-eni) |
 | Public site | https://calhegasmorais.pt/ |
 | Status pulse | https://status.calhegasmorais.pt/ |
 
-## Posture
+## Documents in this repo
 
-- **LAB** — experimental; may reset; not economically or consensus-secure
-- Not mainnet · not aBFT · PQ placeholders only
-- Normative drafts: `WIRE-PROTOCOL-v1`, `THREAT-MODEL-v1` in the core repo
+| Doc | Purpose |
+|-----|---------|
+| [CHARTER.md](./CHARTER.md) | Why the lab exists; what is in/out of scope |
+| [POSTURE.md](./POSTURE.md) | LAB honesty rules; non-claims |
+| [ROADMAP.md](./ROADMAP.md) | Ladder LAB → evidence → testnet (not mainnet yet) |
+| [docs/RESEARCH-FOCUS.md](./docs/RESEARCH-FOCUS.md) | Five protocol centres of gravity |
+| [docs/HOLONIC-LAYERS.md](./docs/HOLONIC-LAYERS.md) | Vocabulary lock — do not collapse layers |
 
-## Core focus
+## Normative protocol drafts (live in core)
 
-DAG · gossip · tip selection · resource contribution proofs · STRATA settlement (`#mint` / `#0`) · Fog/Edge hierarchy
+- [WIRE-PROTOCOL-v1](https://github.com/StrataMesh-Laboratory/stratamesh-core/blob/main/docs/WIRE-PROTOCOL-v1.md)
+- [THREAT-MODEL-v1](https://github.com/StrataMesh-Laboratory/stratamesh-core/blob/main/docs/THREAT-MODEL-v1.md)
+- [protocol_benchmark.py](https://github.com/StrataMesh-Laboratory/stratamesh-core/blob/main/src/protocol_benchmark.py)
+
+## Motto
+
+*Intelligentia · Vigilantia · Veritas*
