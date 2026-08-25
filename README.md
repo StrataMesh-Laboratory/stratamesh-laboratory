@@ -11,6 +11,10 @@ Public registry and charter for **StrataMesh Laboratory** — research DLT for *
 | Public site | https://calhegasmorais.pt/ |
 | Status pulse | https://status.calhegasmorais.pt/ |
 
+## Subject–Object Economy
+
+Subjects (**humans**, **SCAs**) act and own. Objects (**STRATA**, **NFTs**, resources) are acted upon. Population = subjects — not tokens or NFTs as citizens. See [SUBJECT-OBJECT-ECONOMY.md](https://github.com/StrataMesh-Laboratory/stratamesh-core/blob/main/docs/SUBJECT-OBJECT-ECONOMY.md) in core.
+
 ## Documents in this repo
 
 | Doc | Purpose |
@@ -23,6 +27,7 @@ Public registry and charter for **StrataMesh Laboratory** — research DLT for *
 
 ## Normative protocol drafts (live in core)
 
+- [SUBJECT-OBJECT-ECONOMY](https://github.com/StrataMesh-Laboratory/stratamesh-core/blob/main/docs/SUBJECT-OBJECT-ECONOMY.md)
 - [WIRE-PROTOCOL-v1](https://github.com/StrataMesh-Laboratory/stratamesh-core/blob/main/docs/WIRE-PROTOCOL-v1.md)
 - [THREAT-MODEL-v1](https://github.com/StrataMesh-Laboratory/stratamesh-core/blob/main/docs/THREAT-MODEL-v1.md)
 - [protocol_benchmark.py](https://github.com/StrataMesh-Laboratory/stratamesh-core/blob/main/src/protocol_benchmark.py)
