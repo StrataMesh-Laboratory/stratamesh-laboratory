@@ -6,10 +6,10 @@ Public registry and charter for **StrataMesh Laboratory** — research DLT for *
 |------|------|
 | Organization | [github.com/StrataMesh-Laboratory](https://github.com/StrataMesh-Laboratory) |
 | Protocol core | [stratamesh-core](https://github.com/StrataMesh-Laboratory/stratamesh-core) |
-| Reference Fog Node | [calhegas-morais-node](https://github.com/StrataMesh-Laboratory/calhegas-morais-node) (`FOG-NODE-PT-CM-001`) |
+| Reference Fog Node | [spencer-morais-node](https://github.com/StrataMesh-Laboratory/spencer-morais-node) (`FOG-NODE-PT-CM-001`) |
 | Operator entity | [AMCM ENI](https://github.com/amcmorais/amcm-eni) |
-| Public site | https://calhegasmorais.pt/ |
-| Status pulse | https://status.calhegasmorais.pt/ |
+| Public site | https://node.spencer-morais.pt/ |
+| Status pulse | https://node.spencer-morais.pt/status/ |
 
 ## Subject–Object Economy
 
